@@ -1,0 +1,13 @@
+html {
+    user-select: none;
+    height:60px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-color:rgb(19, 97, 170);
+  }
+html {font-size:250%;}
+p{font-size:100%;}
+p{font-weight: 800;}
+html{color: rgb(255, 255, 255);}
+div.E {font-size:280%;}
